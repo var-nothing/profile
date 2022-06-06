@@ -1,0 +1,7 @@
+#+TITLE: Profile
+#+AUTHOR: Ø
+
+Not a lot to put on here right now. All that's available are very unorganised dotfiles and a guix channel.
+
+* TODO Literate dotfiles (with screenshots)
+* TODO Configure various software (services) with guix home
